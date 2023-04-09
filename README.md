@@ -1,3 +1,3 @@
 # Frontend-Projects
 
-Hacker : https://65exercise5.prachii234.repl.co/
+Hacker : https://bit.ly/3Kqk4b9
